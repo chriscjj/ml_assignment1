@@ -57,4 +57,3 @@ price_per_sqft – Price per square foot (computed as price/total_sqft)
 - Outlier detection was necessary as extreme values distorted the analysis.
 - **IQR method was the most effective** in handling outliers.
 - **Log transformation improved the distribution** of price per square foot.
-- **Total square footage and price were the strongest correlated variables**, while price per square foot was influenced by external factors like location.
