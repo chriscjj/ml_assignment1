@@ -24,9 +24,9 @@ Convert total_sqft into numerical values (handle ranges like '1200-1300')
 Handle missing/null values
 Detect and remove outliers
 
-## ** Conclusion of the Analysis**  
+## **Conclusion of the Analysis**  
 
-### ** Summary of Findings**  
+### **Summary of Findings**  
 1. **Basic EDA (Exploratory Data Analysis)**  
    - The dataset contained **property price data in Bangalore**, including key features like `total_sqft`, `bhk`, `bath`, `price`, and `price_per_sqft`.
    - Some inconsistencies in `bhk` and `bedroom` were cleaned.
@@ -57,7 +57,7 @@ Detect and remove outliers
 
 ---
 
-### ** Final Insights & Recommendations**  
+### **Final Insights & Recommendations**  
  **Key Takeaways:**
 - Outlier detection was necessary as extreme values distorted the analysis.
 - **IQR method was the most effective** in handling outliers.
