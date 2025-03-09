@@ -18,11 +18,6 @@ bath – Number of bathrooms
 price – Price of the property
 bhk – Converted from 'size' column (BHK & Bedroom)
 price_per_sqft – Price per square foot (computed as price/total_sqft)
-- Data Preprocessing Steps:
-Convert 'Bedroom' to 'BHK' for consistency
-Convert total_sqft into numerical values (handle ranges like '1200-1300')
-Handle missing/null values
-Detect and remove outliers
 
 ## **Conclusion of the Analysis**  
 
